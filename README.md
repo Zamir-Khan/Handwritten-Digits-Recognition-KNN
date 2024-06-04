@@ -12,7 +12,7 @@ This project requires the following Python libraries:
 
 * scikit-learn
 * NumPy
-* matplotlib (optional, for visualization)
+* matplotlib 
 
 You can install these libraries using pip:
 
